@@ -8,7 +8,7 @@ The purpose of this analysis was to solidfy the proposal to convince invenstors 
 ## Results
 
 ### Checkout Times by Users
-![Screenshot (https://github.com/daniethecreator/bike_city/blob/eaf0fd2aa9f66ba72cdf6549dce5faf0e5591f0a/Module%2014%20Challenge/Challenge_14_images/AVG_TRIP_AGE.png)
+![Screenshot](./Module_14_Challenge/Challenge_14_images/Checkout_Time_Users.png)
 
 ### Checkout Times by Users - Gender
 ![Screenshot](Checkout_Times_Gender.png)
