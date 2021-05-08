@@ -8,7 +8,7 @@ The purpose of this analysis was to solidfy the proposal to convince invenstors 
 ## Results
 
 ### Checkout Times by Users
-![Screenshot](Checkout_Time_Users.png)
+![Screenshot](Module 14 Challenge/Challenge_14_images/Checkout_Time_Users.png)
 
 ### Checkout Times by Users - Gender
 ![Screenshot](Checkout_Times_Gender.png)
