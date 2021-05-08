@@ -11,24 +11,24 @@ The purpose of this analysis was to solidfy the proposal to convince invenstors 
 ![Screenshot](./Module_14_Challenge/Challenge_14_images/Checkout_Time_Users.png)
 
 ### Checkout Times by Users - Gender
-![Screenshot](Checkout_Times_Gender.png)
+![Screenshot](./Module_14_Challenge/Challenge_14_images/Checkout_Times_Gender.png)
 
 ### Trips by Weekday per Hour
-![Screenshot](Trips_by_Weekday.png)
+![Screenshot](./Module_14_Challenge/Challenge_14_images/Trips_by_Weekday.png)
 
 ### Trips by Weekday per Hour - by Gender
-![Screenshot](Trips_by_Gender.png)
+![Screenshot](./Module_14_Challenge/Challenge_14_images/Trips_by_Gender.png)
   
 ### User Trips by Gender by Weekday
-![Screenshot](User_Trips_by_Gender.png)
+![Screenshot](./Module_14_Challenge/Challenge_14_images/User_Trips_by_Gender.png)
 
 ### Top Starting Locations
-![Screenshot](Top_Starting_Locations.png)
+![Screenshot](./Module_14_Challenge/Challenge_14_images/Top_Starting_Locations.png)
 
 ### Top Ending Locations
-![Screenshot](Top_Ending_Locations.png)
+![Screenshot](./Module_14_Challenge/Challenge_14_images/Top_Ending_Locations.png)
 
 ### Average Trip Duration by Gender
-![Screenshot](AVG_TRIP_AGE.png)
+![Screenshot](./Module_14_Challenge/Challenge_14_images/AVG_TRIP_AGE.png)
 
 ## Summary
